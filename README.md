@@ -15,9 +15,7 @@ Cardiovascular disease (CVD) is a major health concern globally, necessitating a
 - <b>Decision Tree</b> 
 - <b>Logistic Regression</b>
 - <b>Support Vector Machine</b> 
-- <b>Stemming</b>
-- <b>Tokenization</b> 
-- <b>NLP Toolkit</b>
+
 
 
 <h2>Model Evaluation</h2>
