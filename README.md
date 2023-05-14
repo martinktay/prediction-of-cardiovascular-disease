@@ -1,7 +1,7 @@
 
 <h1>Project Title: CardioRisk: Predicting Cardiovascular Disease Using Classification Algorithms</h1>
 
-### [Jupyter Notebook Presentation](https://youtu.be/7eJexJVCqJo)
+### [Jupyter Notebook Presentation](https://github.com/martintayy/prediction-of-cardiovascular-disease/tree/main)
 
 <h2>Project Description</h2>
 Cardiovascular disease (CVD) is a major health concern globally, necessitating accurate prediction models for early identification and intervention. This project aims to develop and evaluate classification algorithms, including Decision Trees, Logistic Regression, and Support Vector Machines (SVM), to predict the likelihood of cardiovascular disease. By analyzing relevant clinical and demographic features, these models will provide valuable insights into individuals' risk of developing CVD.
